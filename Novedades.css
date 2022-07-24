@@ -1,0 +1,44 @@
+.d-block {
+    height: 500px;
+}
+
+.Lager {
+    color: white;
+    font-size: 45px;
+    -webkit-text-stroke: 2px black;
+
+}
+
+.descripcion {
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    display: block;
+    -webkit-text-stroke: 2px black;
+}
+
+.Ale {
+    color: white;
+    font-size: 45px;
+    -webkit-text-stroke: 2px black;
+}
+
+.Ipa {
+    color: white;
+    font-size: 45px;
+    -webkit-text-stroke: 2px black;
+}
+
+.nuestra {
+    text-align: center;
+}
+
+.cerveza {
+    text-align: center;
+}
+
+.mb-3 {
+    display: flex;
+    margin-left: 500px;
+
+}
